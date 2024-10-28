@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: AIDS-2022-Conference
+message: >-
+  Impact of the COVID-19 Pandemic on Time to HIV Viral
+  Suppression in the U.S. Deep South
+type: software
+authors:
+  - given-names: John
+    family-names: Bassler
+    email: jbassle1@uab.edu
+    affiliation: University of Alabama at Birmingham
+identifiers:
+  - type: url
+    value: 'https://github.com/JRBassler/AIDS-2022-Conference'
+url: 'https://github.com/JRBassler/AIDS-2022-Conference'
+license: MIT
+date-released: '2022-07-29'
